@@ -1,17 +1,34 @@
-<<<<<<< HEAD
-# Personal Website - AI Researcher & Computer Vision Ph.D.
+# Personal Website
 
-A modern, responsive personal portfolio website built with React, TypeScript, and Tailwind CSS, showcasing my work as an AI Researcher specializing in Computer Vision and Machine Learning.
+I built my website using [bolt.new](https://bolt.new/) by [StackBlitz](https://stackblitz.com/), and it was such an impressive experience! Developing, testing, and deploying everything directly in my browser was easy. I could quickly iterate on features using tools like React, TypeScript, and Tailwind CSS, which helped bring my vision to life. That said, I did run into a few serious and annoying quirks and inconsistencies along the way. I've listed them below.
+
+## ❌✔️ Problems Faced and Solutions (January 2025)
+
+### 1. **Deletes chat on random**
+   **Problem:** The chat section gets deleted randomly. It happened to me once.  
+   **Solution:** I found the project in the collections on [StackBlitz](https://stackblitz.com/), and it was resolved.
+
+### 2. **youtube dot com refused to connect. Error**
+   **Problem:** The YouTube video preview failed to load with a "refused to connect" error.  
+   **Solution:** This is an error in the preview of **bolt.new**, but when you deploy the project, the error goes away.
+
+### 3. **Deletes portion of code/section when you try to do something new**
+   **Problem:** Parts of the code or sections get deleted when making new changes.  
+   **Solution:** **bolt.new** offers a "rollback to checkpoint" option, which helps recover lost changes. I also recommend keeping an eye on the project frequently to avoid losing work. Also, I wrote "don't change anything else" in the prompt, and it worked sometimes.
+
+### 4. **Takes to the home page after rendering**
+   **Problem:** After modifying the code, the app redirects to the home page, even if you were working on another page. This was annoying.  
+   **Solution:** Unfortunately, I couldn’t find a solution for this.
+
+---
 
 ## Features
 
 - 🎯 Responsive design optimized for all devices
 - 🌟 Interactive UI with smooth animations and transitions
-- 📱 Mobile-first approach with adaptive layouts
 - 🚀 Fast loading with code splitting and lazy loading
-- 🎨 Modern design with gradient effects and glassmorphism
+- 🎨 Modern design with gradient effects and glass morphism
 - 📊 Project showcase with detailed technical descriptions
-- 📚 Academic publications section
 - 🎥 Video tutorials integration
 - 📄 Interactive resume/CV section
 - 📱 Contact information with social media links
@@ -38,7 +55,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/personal-website.git
+git clone https://github.com/jibanul/personal-website.git
 cd personal-website
 ```
 
@@ -52,7 +69,7 @@ npm install
 npm run dev
 ```
 
-The site will be available at `http://localhost:5173`
+The site will be available at `http:jibanul.com`
 
 ### Building for Production
 
@@ -89,23 +106,6 @@ src/
 
 ## Key Features Implementation
 
-### Responsive Design
-- Mobile-first approach using Tailwind CSS
-- Adaptive layouts for different screen sizes
-- Optimized navigation for mobile devices
-
-### Performance Optimization
-- Code splitting with React.lazy()
-- Route-based chunking
-- Optimized image loading with proper sizing
-- Efficient bundle splitting
-
-### Interactive UI
-- Smooth scroll animations
-- Intersection Observer for scroll-based animations
-- Gradient effects and glassmorphism design
-- Responsive image galleries
-
 ### Content Sections
 - Project showcase with detailed case studies
 - Academic publications listing
@@ -116,18 +116,10 @@ src/
 ## Deployment
 
 The website is optimized for deployment on various platforms:
-- Netlify
+- Netlify [I used]
 - Vercel
 - GitHub Pages
 - Any static hosting service
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -135,18 +127,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/jibanul/)
+[LinkedIn](https://www.linkedin.com/in/jibanul/)
 
-Project Link: [https://github.com/yourusername/personal-website](https://github.com/yourusername/personal-website)
 
 ## Acknowledgments
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Lucide Icons](https://lucide.dev/)
-=======
-# Personal-Website
+- [Bolt](https://bolt.new/)
+- [StackBlitz](https://stackblitz.com/)
+<!-- # Personal-Website -->
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Jibanul/Personal-Website)
->>>>>>> c08e5caede08d68c0b6e6465edd30e5d6d305a93
+<!-- [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Jibanul/Personal-Website) -->
