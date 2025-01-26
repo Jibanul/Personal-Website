@@ -8,7 +8,7 @@ I built my website using [bolt.new](https://bolt.new/) by [StackBlitz](https://s
    **Problem:** The chat section gets deleted randomly. It happened to me once.  
    **Solution:** I found the project in the collections on [StackBlitz](https://stackblitz.com/), and it was resolved.
 
-### 2. **youtube dot com refused to connect. Error**
+### 2. **Youtube dot com refused to connect. Error**
    **Problem:** The YouTube video preview failed to load with a "refused to connect" error.  
    **Solution:** This is an error in the preview of **bolt.new**, but when you deploy the project, the error goes away.
 
