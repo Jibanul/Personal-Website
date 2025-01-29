@@ -1,6 +1,6 @@
 # Personal Website
 
-I built my website using [bolt.new](https://bolt.new/) by [StackBlitz](https://stackblitz.com/), and it was such an impressive experience! Developing, testing, and deploying everything directly in my browser was easy. I could quickly iterate on features using tools like React, TypeScript, and Tailwind CSS, which helped bring my vision to life. That said, I did run into a few serious and annoying quirks and inconsistencies along the way. I've listed them below.
+I built my portfolio website using [bolt.new](https://bolt.new/) by [StackBlitz](https://stackblitz.com/), and it was such an impressive experience! Developing, testing, and deploying everything directly in my browser was easy. I could quickly iterate on features using tools like React, TypeScript, and Tailwind CSS, which helped bring my vision to life. That said, I did run into a few serious and annoying quirks and inconsistencies along the way. I've listed them below.
 
 ## ❌✔️ Problems Faced and Solutions (January 2025)
 
