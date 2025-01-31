@@ -21,6 +21,11 @@ I built my portfolio website using [bolt.new](https://bolt.new/) by [StackBlitz]
    **Solution:** Unfortunately, I couldn’t find a solution for this.
 
 ---
+## What Needs to Be Done  
+- **Improve Speed:** Optimize load times and performance for a smoother user experience.  
+- **Enhance Efficiency:** Reduce unnecessary resource usage and streamline code.
+
+---
 
 ## Features
 
