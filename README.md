@@ -24,6 +24,8 @@ I built my portfolio website using [bolt.new](https://bolt.new/) by [StackBlitz]
 ## ⚡ What Needs to Be Done  
 - **Improve Speed:** Optimize load times and performance for a smoother user experience.  
 - **Enhance Efficiency:** Reduce unnecessary resource usage and streamline code.
+- **Optimize Assets:** Compress images, minify CSS/JS, and implement caching strategies.  
+- **Improve Server Response Time:** Enhance backend performance to reduce delays.
 
 ---
 
