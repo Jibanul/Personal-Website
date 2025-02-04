@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [LinkedIn](https://www.linkedin.com/in/jibanul/)
 
 
-## Acknowledgments
+## Resources/tools
 
 - [Bolt](https://bolt.new/)
 - [StackBlitz](https://stackblitz.com/)
