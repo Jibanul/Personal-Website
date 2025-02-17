@@ -2,21 +2,22 @@
 
 I built my portfolio website using [bolt.new](https://bolt.new/) by [StackBlitz](https://stackblitz.com/), and it was such an impressive experience! Developing, testing, and deploying everything directly in my browser was easy. I could quickly iterate on features using tools like React, TypeScript, and Tailwind CSS, which helped bring my vision to life. That said, I did run into a few serious and annoying quirks and inconsistencies along the way. I've listed them below.
 
-## ❌✔️ Problems Faced and Solutions (January 2025)
+## ❌✔️ Problems Faced with [bolt.new](https://bolt.new/) and Solutions (January 2025)
 
-### 1. **Deletes chat on random**
+
+### 1. **Deletes chat on random.**
    **Problem:** The chat section gets deleted randomly. It happened to me once.  
    **Solution:** I found the project in the collections on [StackBlitz](https://stackblitz.com/), and it was resolved.
 
-### 2. **Youtube dot com refused to connect. Error**
+### 2. **Youtube dot com refused to connect. Error.**
    **Problem:** When I tried to embed a YT video. The video preview failed to load with a "refused to connect" error.  
    **Solution:** This is an error in the preview of **bolt.new**, but when you deploy the project, the error goes away.
 
-### 3. **Deletes portion of code/section when you try to do something new**
+### 3. **Deletes portion of code/section when you try to do something new.**
    **Problem:** Parts of the code or sections get deleted when making new changes.  
    **Solution:** **bolt.new** offers a "rollback to checkpoint" option, which helps recover lost changes. I also recommend keeping an eye on the project frequently to avoid losing work. Also, I wrote "don't change anything else" in the prompt, and it worked sometimes.
 
-### 4. **Takes to the home page after rendering**
+### 4. **Takes to the home page after rendering.**
    **Problem:** After modifying the code, the app redirects to the home page, even if you were working on another page. This was annoying.  
    **Solution:** Unfortunately, I couldn’t find a solution for this.
 
